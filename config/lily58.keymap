@@ -25,7 +25,6 @@
 
             sensor-bindings = <
               &inc_dec_kp LEFT RIGHT
-              &inc_dec_kp UP DOWN
             >;
         };
 
@@ -40,8 +39,7 @@
             >;
 
             sensor-bindings = <
-              &inc_dec_kp C_VOL_UP C_VOL_DN
-              &msc SCRL_UP SCRL_DOWN
+              &inc_dec_kp UP DOWN
             >;
         };
     };
