@@ -46,5 +46,6 @@
 &trans           &ext_power EP_ON  &ext_power EP_OFF  &ext_power EP_TOG  &trans           &trans        &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
                                                  &trans             &trans        &trans        &trans    &trans  &trans  &trans  &trans
             >;
+        };
     };
 };
